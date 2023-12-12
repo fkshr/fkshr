@@ -1,13 +1,13 @@
 👋 Hi, I’m @fkshr, " Farwa Kamran Sadiq Hassan Rabbani ", Farwa Rabbani for short 
 - 🎓 BS-CS student at UOL
-- 👀 I delve into developing and data science
+- 👀 I delve into developing and Neural Networks
 - 🎯 Aspiring to polish concepts and talent through hardwork
-- 💪 Learning Javascript and Adobe Illustrator 
+- 💪 Learning Artifiial Intelligence
     
 👩‍💻 Technicality
-- 💻 C | C++
-- 🌐 HTML
-- 💻 Photoshop
+- 💻 C | C++ | Javascript
+- 🌐 Frontend
+- 💻 Linux
      
 📫 How to reach me 
 - EMAIL➾ks339473@gmail.com
