@@ -2,7 +2,7 @@
 - 🎓 BS-CS student at UOL
 - 👀 I delve into developing and Neural Networks
 - 🎯 Aspiring to polish concepts and talent through hardwork
-- 💪 Learning Artifiial Intelligence
+- 💪 Learning Artificial Intelligence
     
 👩‍💻 Technicality
 - 💻 C | C++ | Javascript
